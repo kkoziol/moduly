@@ -19,6 +19,7 @@
         <module>entity</module>
         <module>dao</module>
         <module>daoUser</module>
+        <module>daoLogger</module>
         <module>app</module>
     </modules>
 
